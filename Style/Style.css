@@ -54,7 +54,6 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -159,8 +158,8 @@ width: 50%;
 }
 
 .membro__img {
-    float: right;
-    margin-left: 40px;
+    align-items: center;
+    margin-left: 2rem;
 }
 
 .mapa {
