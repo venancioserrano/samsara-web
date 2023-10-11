@@ -159,6 +159,7 @@ width: 50%;
 
 .membro__img {
     align-items: center;
+    float: right;
     margin-left: 2rem;
 }
 
