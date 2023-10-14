@@ -130,6 +130,9 @@ width: 50%;
     font-family: var(--fonte-secundaria);
     font-size: 1.50rem;
     font-weight: 400;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 @media (max-width: 1200px) {
@@ -158,8 +161,6 @@ width: 50%;
 }
 
 .membro__img {
-    align-items: center;
-    float: right;
     margin-left: 2rem;
 }
 
